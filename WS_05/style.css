@@ -85,4 +85,10 @@
         display: block;
       }
     }
-    
+    .nav-list {
+      display: flex;
+       flex-direction: column;
+       gap: 5px;
+       list-style: none;
+       padding: 0;
+      }
